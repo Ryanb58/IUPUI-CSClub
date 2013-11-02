@@ -1,0 +1,36 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background: #DBDBDB;
+	background-image: url(../img/bg.png);
+	background-repeat: repeat;
+}
+header{
+	margin-top: 10px;
+	padding-top: 0;
+	margin-bottom: 10px;
+}
+.page-header
+{
+	border-bottom: 0px;
+	border: 0px solid #000000;
+}
+.page-header h1 
+{
+	color: #000000;
+}
+.page-header h1 small
+{
+	color: #870102;
+}
+.important
+{
+	max-width: 900px;
+	margin: auto;
+	margin-bottom: 10px;
+}
+.footer
+{
+	font-weight: bold;
+}
