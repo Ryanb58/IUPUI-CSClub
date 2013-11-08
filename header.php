@@ -2,7 +2,7 @@
 <html>
   <head>
   	<meta charset=”utf-8”> 
-    <title>Bootstrap 101 Template</title>
+    <title>Computer Science Club @ IUPUI</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- Bootstrap -->
 	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -18,7 +18,7 @@
   <body>
 	    <header>
 	    	<div class="page-header important">
-		    	<a href="http://csclub.cs.iupui.edu/"><h1>Computer Science Club<br /><small>- An IUPUI Student Organization</small></h1></a>
+		    	<a href="/"><h1>Computer Science Club<br /><small>- An IUPUI Student Organization</small></h1></a>
 	    	</div>
 	    </header>
 	    <div class="navbar navbar-inverse important">
@@ -26,7 +26,7 @@
 			    <ul class="nav">
 				    <li><a href="event.php">Events</a></li>
 				    <li><a href="officers.php">Officers</a></li>
-				    <li><a href="http://iupui.edu/">IUPUI</a></li>
+				    <li><a href="http://iupui.edu/" target="_blank">IUPUI</a></li>
 				    <li><a href="acm.php">ACM</a></li>
 			    </ul>
 		    </div>
